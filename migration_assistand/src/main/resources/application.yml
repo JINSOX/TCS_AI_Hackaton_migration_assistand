@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  main:
+    banner-mode: "off"
+
+gemini:
+  api:
+    key: "AIzaSyA2K7r1k3piU4_OS7-4e9Nrel5QfygWm14"
+
